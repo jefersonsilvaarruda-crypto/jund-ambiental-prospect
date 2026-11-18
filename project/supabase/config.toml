@@ -1,3 +1,0 @@
-[functions.overpass-search]
-verify_jwt = false
-entrypoint = "./functions/overpass-search/index.ts"
